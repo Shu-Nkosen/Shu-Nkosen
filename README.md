@@ -12,9 +12,11 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shu-Nkosen&show_icons=true&theme=radical" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Shu-Nkosen&show_icons=true&theme=radical" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shu-Nkosen&theme=radical" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shu-Nkosen&theme=radical" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Nkosen&layout=compact&theme=radical&hide=html,css" />
 
 
 
