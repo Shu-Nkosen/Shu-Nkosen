@@ -14,9 +14,9 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Shu-Nkosen&show_icons=true&theme=radical" /> -->
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shu-Nkosen&theme=radical" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shu-Nkosen&theme=radical&hide=html,css" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Nkosen&layout=compact&theme=radical&hide=html,css" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Nkosen&layout=compact&theme=radical&hide=html,css" /> -->
 
 
 
